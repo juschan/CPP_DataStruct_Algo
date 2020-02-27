@@ -1,14 +1,8 @@
----
-title: Advanced C++
-created: '2020-02-25T04:34:42.253Z'
-modified: '2020-02-27T08:00:36.807Z'
----
-
 # Advanced C++
 
 ## Introduction
 
-This is a course mainly on Data Structures and Algorithms. We will mainly C++, but also look at pseudocode and how these ideas are implemented in other languages.
+This is a course mainly on Data Structures and Algorithms. We will mainly use C++, but also look at pseudocode and how these ideas are implemented in other languages.
 
 In our professional lives, we use popular libraries which have been battle-tested and optimized (eg. Standard Template Library (STL), Boost). 
 
